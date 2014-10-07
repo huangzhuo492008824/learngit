@@ -4,3 +4,4 @@ Git has a mutable index called stags.
 Git tracks changes of file.
 My stupid boss still prefers SVN.
 Createing a new branch is quick and simple.
+Createing a new branch dev1.
